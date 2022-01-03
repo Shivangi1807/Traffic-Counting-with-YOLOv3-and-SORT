@@ -2,3 +2,7 @@ car
 motorbike
 bus
 truck
+3 wheeler
+Tractor
+Hand driven
+Bicycle
