@@ -46,7 +46,7 @@ def main(yolo):
     # initialize the video stream, pointer to output video file, and
     # frame dimensions
     #Put your video path here
-    vs = cv2.VideoCapture('video_path.mp4')
+    vs = cv2.VideoCapture('This PC/F:/Roorkee to delhi.mp4')
     writer = None
     (W, H) = (None, None)
     
